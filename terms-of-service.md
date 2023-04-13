@@ -1,4 +1,8 @@
-TERM OF USE
+# CLIK APP TERMS OF USE
+
+TERMS OF SERVICE
+----------------
+
 These Terms of Use (or "Terms") govern your use of Clik, except where we expressly state that separate terms (and not these) apply, and provide information about Clik Service (the "Service").
 You agree that by clicking “Sign Up” or otherwise registering, accessing or using Click, you are entering into a legally binding agreement between you and Clik regarding the use of its services and you accept our privacy policy, data retention policy and data protection policy  You acknowledge that have read, understood, and agree to be bound by all of these Terms of Use. If you do not agree with all of these Terms of Use, then you are expressly prohibited from using the Application and you must discontinue use immediately.
 We reserve the right to amend these Terms of Use from time to time. You will be notified of any changes via mail. Your continued use of our Application after notification will constitute your acceptance of, and agreement to, any changes. Specific services that we offer, or make available to you, may also be governed by additional or alternative terms and conditions with us, or other third parties.
